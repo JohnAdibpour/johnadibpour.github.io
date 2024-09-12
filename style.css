@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: white;
+}
+
+body > main > article {
+    width: 25%;
+    margin: auto;
+}
+
+body > header {
+    background-color: burlywood;
+}
+
+body > main {
+    background-color: antiquewhite;
+}
+
+body > footer > div {
+    background-color: burlywood;
+}
+
+form {
+    background-color: bisque;
+    text-align: center;
+}
+
+footer > h2 {
+    text-align: center;
+}
