@@ -10,10 +10,12 @@ body > main > article {
 
 body > header {
     background-color: burlywood;
+    display: flex;
 }
 
 body > main {
     background-color: antiquewhite;
+    display: flex
 }
 
 body > footer > div {
@@ -25,6 +27,15 @@ form {
     text-align: center;
 }
 
+footer > div {
+    display: flex;
+}
+
+#BottomBanner > h2 {
+    display: flex;
+}
+
 footer > h2 {
     text-align: center;
 }
+
